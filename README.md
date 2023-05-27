@@ -1,4 +1,4 @@
-# Motion-Planner-For-Vending-Machine
+# Motion Planner For Vending Machine
 
 ## About the project
 The soda starts trapped inside a chamber in the vending machine, and must be maneuvered past two barriers to get outside. The goal of this project is to create an RRT-based motion planner to steal the soda.
@@ -16,28 +16,39 @@ The above project has been implemented using the RRT Algorithm. Following is the
 
 
 ![147785281-67df6eff-bd5f-4a06-b090-efe7f66d5308](https://github.com/kt-krutarthtrivedi/Motion-Planner-For-Vending-Machine/assets/134632027/de3f2efc-50f7-47c5-bba2-7c444a005be2)
+
+&nbsp;
+
 ![147785287-f136cfea-a3a6-48a2-bcbc-f041521310af](https://github.com/kt-krutarthtrivedi/Motion-Planner-For-Vending-Machine/assets/134632027/99ff0d7a-e011-4f8e-8a09-b07db97be41c)
+
+&nbsp;
+
 ![147785298-b44c2cf0-11cf-4a74-aca0-fd5e235b2c80](https://github.com/kt-krutarthtrivedi/Motion-Planner-For-Vending-Machine/assets/134632027/64ae3cf2-ac7e-444d-b0ae-79d8dda241de)
 
+&nbsp;
+&nbsp;
 
 Following are the images of the final path:
 
 ![147785244-ed6e3101-d88c-430b-a206-6d992f7fe97d](https://github.com/kt-krutarthtrivedi/Motion-Planner-For-Vending-Machine/assets/134632027/0377bad8-ab3a-4dfa-97ca-d8d2918a825c)
+
+&nbsp;
+
 ![147785248-432d9c2f-c7cf-4470-8fa7-3511a161f8a0](https://github.com/kt-krutarthtrivedi/Motion-Planner-For-Vending-Machine/assets/134632027/c75ea328-715d-42ff-b02f-fb9695abed38)
+
+&nbsp;
+
 ![147785254-7b49e179-8f25-44f8-a2e4-72c81288e87a](https://github.com/kt-krutarthtrivedi/Motion-Planner-For-Vending-Machine/assets/134632027/3d636edd-b4c8-42a3-9f3c-2de10ca3a1bd)
 
+&nbsp;
 
-Here is an animation of the static plot:
 
-
+## Demo
 
 https://github.com/kt-krutarthtrivedi/Motion-Planner-For-Vending-Machine/assets/134632027/7a8ac6ed-dbf6-455e-8cdc-9e4dec0fd744
 
 
-
-Here is the demo:
-
-
+&nbsp;
 
 
 https://github.com/kt-krutarthtrivedi/Motion-Planner-For-Vending-Machine/assets/134632027/1840ac83-e1f8-4385-a151-9f8fb5850ba1
