@@ -10,7 +10,7 @@ a diameter of 52 mm and height of 122 mm. The main chamber of the vending machin
 ![147783728-3228e148-a74c-4540-9aa7-6af992a6e64c](https://github.com/kt-krutarthtrivedi/Motion-Planner-For-Vending-Machine/assets/134632027/329432ad-be22-498d-8bb6-3185b0dea577)
 
 
-## Planners used
+## RRT Path Planner
 
 The above project has been implemented using the RRT Algorithm. Following is the graph plot from the RRT Planner:
 
